@@ -29,8 +29,8 @@ body:
     id: textarea-3
     attributes:
       label: 起こっている問題の再現手段 / Steps to Reproduce
-      description: できるだけ詳細に / as detailed as possible
-      value: |
+      description: |
+        できるだけ詳細に / as detailed as possible
         1. xxx
         2. xxx
         3. xxx
