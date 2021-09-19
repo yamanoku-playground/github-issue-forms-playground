@@ -6,7 +6,7 @@ body:
   - type: input
     id: input-1
     attributes:
-      label: 起こっている問題 / The Problem
+      label: 改善詳細 / Details of Improvement
       description: できるだけ簡潔に / as concise as possible
     validations:
       required: true
@@ -23,15 +23,6 @@ body:
       description: 「何」が「どうなってほしいか」を記載 / Describe "what" and "how" you want it to happen.
     validations:
       required: true
-  - type: textarea
-    id: textarea-3
-    attributes:
-      label: 起こっている問題の再現手段 / Steps to Reproduce
-      description: |
-        できるだけ詳細に / as detailed as possible
-        1. xxx
-        2. xxx
-        3. xxx
   - type: dropdown
     id: dropdown-1
     attributes:
