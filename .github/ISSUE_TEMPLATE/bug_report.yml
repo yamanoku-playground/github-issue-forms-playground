@@ -1,5 +1,5 @@
 name: バグ報告 / Bug Report
-description: "既存のWebサイトに不具合がある場合・更新しなければならない問題を報告"
+description: "既存のWebサイトに不具合がある場合・更新しなければならない問題を報告 / Report any problems with the existing site or issues that need to be updated"
 title: "Bug : "
 labels: [bug]
 body:

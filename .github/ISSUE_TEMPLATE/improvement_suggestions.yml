@@ -1,5 +1,5 @@
 name: 改善提案 / Improvement Suggestions
-description: "「こうするとサイトがもっとよくなる」といった提案がある場合"
+description: "「こうするとサイトがもっとよくなる」といった提案がある場合 / If you have a suggestion, such as 'This would make the site better'"
 title: "Improvement : "
 labels: [improvement]
 body:
@@ -15,7 +15,7 @@ body:
     attributes:
       label: スクリーンショット / Screenshot
       description: |
-        バグであればdeveloper toolからコンソールも合わせて添付 / If it's a bug, attach a screenshot of the developer tool console
+        参考となる画像や動画があれば添付ください / Images or videos for reference, please attach them.
   - type: textarea
     id: textarea-2
     attributes:
