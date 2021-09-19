@@ -22,7 +22,6 @@ body:
       label: 期待する見せ方・挙動 / Expected Behavior
       value: |
         - xxx
-      render: markdown
     validations:
       required: true
   - type: textarea
@@ -34,7 +33,6 @@ body:
         1. xxx
         2. xxx
         3. xxx
-      render: markdown
   - type: dropdown
     id: dropdown-1
     attributes:
